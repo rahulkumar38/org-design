@@ -28,4 +28,28 @@ Please **ensure** you have submitted the following:
   - What could be done with more time
 4. Project builds / runs / tests as per instructions
 
+IOS:
+Assignment 1: 
+Create An Swift/Android app which Parsh the below URL and display result in Tableview formate with custom cell like below 
+
+http://microblogging.wingnity.com/JSONParsingTutorial/jsonActors
+ 
+Note: Use Swift based feature like "Promis Kit" , "Alamofire"  , "Object Mapper"  etc to create your app. And use REtrofit , RxJava (if possible) and advance Android feature as much possible.
+
+Assignment 2: 
+Create the project with MVVM architecture and create the custom data model.
+    a) Create the custom tableview cell  with image title and subtitle.
+    b) Pass data from tableview controller to details view controller using Delegate methods.
+Assignment 3: 
+Create the project with MVVM architecture and  custom Json file with Image,title and subtitle
+a) Create the custom tableview cell  with image title and subtitle.
+    b) Pass data from tableview controller to details view controller using Delegate methods
+Assignment 4:
+Create a custom Calendar  for IOS and Android where you can highlight 30 days starting today 
+Assignment 5:
+Create a custom Calendar  for IOS and Android where you can select any 2 days.
+Assignment 6:
+Create a Custom dialog box for capturing user email and number having 2 buttons and 2 text field , which will validate wether the both email and mobile number in correct formate.
+
+
 Good luck and thank you for your time - we look forward to seeing your creation.
